@@ -20,5 +20,5 @@
 - 🤔 I’m looking for help with Desktop QML design
 - 💬 Ask me about anything
 - 📫 How to reach me? Just check above
-- 😄 Pronouns: Him
+- 😄 Pronouns: He
 - ⚡ Fun fact: "I like cakes ... i mean a lot. Bribe me with them is you need a favor.

@@ -1,5 +1,5 @@
 <h1>Leslie Etubo T.</h2>
-<p>Lead Developer and researcher at <a href="https://odaaay.com">Odaaay</p>
+<p>Lead Developer and researcher at <a href="https://odaaay.com">Odaaay</a></p>
   
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leslieetubo/)
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/boogiedas/)
@@ -21,4 +21,4 @@
 - 💬 Ask me about anything
 - 📫 How to reach me? Just check above
 - 😄 Pronouns: He
-- ⚡ Fun fact: "I like cakes ... i mean a lot. Bribe me with them is you need a favor.
+- ⚡ Fun fact: "I like cakes ... i mean a lot. Bribe me with them if you need a favor.

@@ -10,9 +10,9 @@
 
 
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Khalifagates&theme=react&show_icons=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Leslieetubo&theme=react&show_icons=true" />
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khalifagates&theme=react" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leslieetubo&theme=react" />
 
 - 🔭 I’m currently working on Integrating ML to news filtering
 - 🌱 I’m currently learning Quantum computer programing with Qiskit and UI design with QML

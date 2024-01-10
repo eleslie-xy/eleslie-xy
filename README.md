@@ -10,12 +10,3 @@
 <img height="250" src="https://github-profile-trophy.vercel.app/?username=eleslie-xy&theme=onedark&row=2&column=4" /></a>
 </a>
 </p>
-
-- 🔭 I’m currently working on Integrating ML to news filtering
-- 🌱 I’m currently learning Quantum computer programing with Qiskit and UI design with QML
-- 👯 I’m looking to collaborate on Desktop QML design
-- 🤔 I’m looking for help with Desktop QML design
-- 💬 Ask me about anything
-- 📫 How to reach me? Just check above
-- 😄 Pronouns: He
-- ⚡ Fun fact: "I like cakes ... i mean a lot. Bribe me with them if you need a favor.

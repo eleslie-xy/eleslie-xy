@@ -7,6 +7,6 @@
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eleslie-xy&show_icons=true&include_all_commits=true&theme=react&hide_border=true" />
 </a>
 <a href="https://github.com/eleslie-xy">
-<img height="250" src="https://github-profile-trophy.vercel.app/?username=eleslie-xy&theme=onedark&row=2&column=4" /></a>
+<img height="250" src="https://github-profile-trophy.vercel.app/?username=eleslie-xy&theme=onedark&row=2&column=4&margin-w=15&margin-h=15" /></a>
 </a>
 </p>
